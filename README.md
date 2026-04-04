@@ -32,6 +32,8 @@
 
 </div>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Aeontonn?cardType=github&theme=slateorange&fontFamily=Barlow%20Semi%20Condensed&preferLogin=false)](https://git.io/awesome-stats-card)
+
 - 🔭 I’m currently working on an app to practice Korean https://github.com/Aeontonn/Korean_Learning_App
 - 🌱 I’m currently learning Webbdevelopment
 - 👯 I’m looking to work as an intern starting week 46 of this year!
@@ -39,5 +41,4 @@
 - ⚡ Fun fact: I love Photography, Gaming, and Pokémon
 
 
-![Aeontonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeontonn&show_icons=true)
 
