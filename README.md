@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Studying+AI+Developmet.;Work+in+progress...)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Studying+AI+Development%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22lineHeight%22%3A1.5%7D%2C%7B%22text%22%3A%22Work+In+Progress...%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22lineHeight%22%3A1.5%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 ## Hello World! I'm Anton. 👋
 
 ## 🚀 Skills I'm Working On...
