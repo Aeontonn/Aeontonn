@@ -38,6 +38,6 @@
 - 📫 How to reach me: trolllorz2@gmail.com
 - ⚡ Fun fact: I love Photography, Gaming, and Pokémon
 
-<div align="center">
+
 ![Aeontonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeontonn&show_icons=true)
-</div>
+
