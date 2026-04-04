@@ -1,12 +1,11 @@
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=850&height=100&backgroundColor=%232b1c46&backgroundOpacity=0&lines=%5B%7B%22text%22%3A%22Studying+AI+Development+%F0%9F%8E%93%22%2C%22color%22%3A%22%23ff8040%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22lineHeight%22%3A1.5%7D%2C%7B%22text%22%3A%22Work+In+Progress...+%F0%9F%A4%96%F0%9F%A6%BE%22%2C%22color%22%3A%22%23ff8040%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22lineHeight%22%3A1.5%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
-<div align="center">
+
 ## Hello World! I'm Anton. 👋
-</div>
-<div align="center">
+
 ## 🚀 Skills I'm Working On...
 ---
-</div> 
-<!-- We use a div to center align all the badges, just like the image -->
+
+
 <div align="center">
 
   <!-- First Row -->
@@ -32,13 +31,13 @@
   ![Cypress](https://img.shields.io/badge/CYPRESS-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 </div>
-<div align="center">
+
 - 🔭 I’m currently working on an app to practice Korean https://github.com/Aeontonn/Korean_Learning_App
 - 🌱 I’m currently learning Webbdevelopment
 - 👯 I’m looking to work as an intern starting week 46 of this year!
 - 📫 How to reach me: trolllorz2@gmail.com
 - ⚡ Fun fact: I love Photography, Gaming, and Pokémon
-</div>
+
 <div align="center">
 ![Aeontonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aeontonn&show_icons=true)
 </div>
