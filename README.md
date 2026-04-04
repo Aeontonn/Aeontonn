@@ -33,7 +33,7 @@
 </div>
 
 
-- 🔭 I’m currently working on an app to practice Korean https://github.com/Aeontonn/Korean_Learning_App
+- 🔭 I’m currently working on an app to practice Korean https://github.com/Aeontonn/Korean_Learning_App and a fun Pokemon battle simulator https://github.com/Aeontonn/Pokemon_Battler
 - 🌱 I’m currently studying at JENSEN Education Yrkeshögskola
 - 👯 I’m looking to work as an intern starting week 46 of this year!
 - 📫 How to reach me: trolllorz2@gmail.com
