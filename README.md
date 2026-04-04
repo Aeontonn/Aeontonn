@@ -8,3 +8,4 @@
 - 📫 How to reach me: trolllorz2@gmail.com
 - ⚡ Fun fact: I love Photography, Gaming, and Pokémon
 
+[https://github-readme-stats.vercel.app/api?username=Aeontonn](https://github-readme-stats.vercel.app/api?username=Aeontonn)
