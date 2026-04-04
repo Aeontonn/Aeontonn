@@ -34,7 +34,7 @@
 
 
 - 🔭 I’m currently working on an app to practice Korean https://github.com/Aeontonn/Korean_Learning_App
-- 🌱 I’m currently learning Webbdevelopment
+- 🌱 I’m currently studying at JENSEN Education Yrkeshögskola
 - 👯 I’m looking to work as an intern starting week 46 of this year!
 - 📫 How to reach me: trolllorz2@gmail.com
 - ⚡ Fun fact: I love Photography, Gaming, and Pokémon
