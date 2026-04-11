@@ -1,5 +1,4 @@
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=850&height=100&backgroundColor=%232b1c46&backgroundOpacity=0&lines=%5B%7B%22text%22%3A%22Studying+AI+Development+%F0%9F%8E%93%22%2C%22color%22%3A%22%23ff8040%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22lineHeight%22%3A1.5%7D%2C%7B%22text%22%3A%22Work+In+Progress...+%F0%9F%A4%96%F0%9F%A6%BE%22%2C%22color%22%3A%22%23ff8040%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%2C%22lineHeight%22%3A1.5%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Aeontonn?cardType=github&theme=slateorange&fontFamily=&preferLogin=false&borderRadius=10&Text=D4AA7D&Background=272727&Ring=D4AA7D)](https://git.io/awesome-stats-card)
 <h1 align="center">Hey, I'm Anton 👋</h1>
  
 <p align="center">
@@ -63,6 +62,6 @@
  
 <div align="center">
  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Aeontonn?cardType=github&theme=slateorange&fontFamily=Barlow%20Semi%20Condensed&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Aeontonn?cardType=github&theme=slateorange&fontFamily=&preferLogin=false&borderRadius=10&Text=D4AA7D&Background=272727&Ring=D4AA7D)](https://git.io/awesome-stats-card)
  
 </div>
