@@ -3,7 +3,7 @@
  
 <p align="center">
   AI Development student at <strong>JENSEN Education Yrkeshögskola</strong> 🇸🇪<br/>
-  Building things I actually want to use — and slowly becoming dangerous with code.
+  Building things I actually want to use, and slowly becoming dangerous with code.
 </p>
  
 <p align="center">
@@ -19,11 +19,11 @@
  
 ## 🙋 About Me
  
-- 📚 Studying AI Development — fascinated by how software can actually *think*
+- 📚 Studying AI Development - fascinated by how software can actually *think*
 - 🔭 Currently building:
-  - [**Korean Learning App**](https://github.com/Aeontonn/Korean_Learning_App) — a personal tool to practice Korean
-  - [**Pokemon Battler**](https://github.com/Aeontonn/Pokemon_Battler) — because why not combine code with childhood nostalgia
-- 💼 Open to internship opportunities — reach out if you think we'd work well together!
+  - [**Korean Learning App**](https://github.com/Aeontonn/Korean_Learning_App) - a personal tool to practice Korean
+  - [**Pokemon Battler**](https://github.com/Aeontonn/Pokemon_Battler) - because why not combine code with childhood nostalgia
+- 💼 Open to internship opportunities - reach out if you think we'd work well together!
 - 📸 Outside of code: Photography, Gaming, and way too much Pokémon
  
 ---
