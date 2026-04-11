@@ -22,7 +22,7 @@
 - 📚 Studying AI Development - fascinated by how software can actually *think*
 - 🔭 Currently building:
   - [**Korean Learning App**](https://github.com/Aeontonn/Korean_Learning_App) - a personal tool to practice Korean
-  - [**Pokemon Battler**](https://github.com/Aeontonn/Pokemon_Battler) - because why not combine code with childhood nostalgia
+  - [**NextHire**](https://github.com/Aeontonn/NextHire) - because why not combine code with childhood nostalgia
 - 💼 Open to internship opportunities - reach out if you think we'd work well together!
 - 📸 Outside of code: Photography, Gaming, and way too much Pokémon
  
