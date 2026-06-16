@@ -21,10 +21,11 @@
  
 - 📚 Studying AI Development - fascinated by how software can actually *think*
 - 🔭 Currently building:
-  - [**Korean Learning App**](https://github.com/Aeontonn/Korean_Learning_App) - a personal tool to practice Korean
-  - [**NextHire**](https://github.com/Aeontonn/NextHire) - because why not combine code with childhood nostalgia
+  - [**Korean Learning App**](https://github.com/Aeontonn/Korean_Learning_App) - A personal tool to practice Korean.
+  - [**NextHire**](https://github.com/Aeontonn/NextHire) - A website used to track your job applications, todo lists, and calendar schedules.
+  - [**Street Photo Scoring**](https://github.com/Aeontonn/street_photo_scorer)  - A bigger personal project for my current Applied AI, data mining, machine learning and deep learning course.
 - 💼 Open to internship opportunities - reach out if you think we'd work well together!
-- 📸 Outside of code: Photography, Gaming, and way too much Pokémon
+- 📸 Outside of code: Photography, Gaming, and Practicing the Korean language.
  
 ---
  
